@@ -1,5 +1,5 @@
 # pressed-press-unity-game
-This is a unity game we made with custom sprites where the player jumps from platform to platform, and comes across two news articles (one fake and one real). They must jump on the platform with the real news, otherwise they'll fall through! <br />
+This is a unity game we made with custom sprites where the player jumps from platform to platform, and comes across two news articles (one fake and one real). They must jump on the platform with the real news, otherwise they'll fall through! Created on December 2021. <br />
 <br />
 You can see our presentation slides [here](https://docs.google.com/presentation/d/13GIP8gMkv7nQ1ZyoczvxfxV5qpTOp5ohc9F8AIMkMkc/edit?usp=sharing).
 # collaborators
